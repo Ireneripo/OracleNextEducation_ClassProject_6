@@ -1,0 +1,10 @@
+.person {
+  display: flex;
+  flex-direction: column;
+}
+
+.persons {
+  display: flex;
+  padding-top: 3rem;
+  justify-content: space-around;
+}
